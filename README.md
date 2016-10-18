@@ -1,3 +1,3 @@
 dataStrucs
 ==========
-CS 1332 HWs
+Basic data structures implemented in Java while at Georgia Tech
